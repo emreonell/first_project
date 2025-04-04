@@ -1,0 +1,9 @@
+Armstrong 
+5000
+Emirp
+113
+Emirp
+201
+Armstrong
+4000
+Exit
